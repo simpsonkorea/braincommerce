@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+    <meta name="branch:deeplink:$deeplink_path" content="jobplanet://company/jobposting?id=86783" />
+    <meta property="al:ios:app_store_id" content="981750452" />
+    <meta property="al:ios:url" content="jobplanet://company/jobposting?id=86783" />
+    <meta property="al:ios:app_name" content="잡플래닛" />
+    <meta property="al:android:package" content="com.jobplanet.kr.android" />
+    <meta property="al:android:url" content="jobplanet://company/jobposting?id=86783" />
+    <meta property="al:android:app_name" content="잡플래닛-2024년 일하기 좋은 기업은 어디?" />
+</head>
+<body>
+
+    <button onclick="location.href='https://jobplanet.co.kr/job/search?posting_ids%5B%5D=86783'">잡포스팅 확인하러 가기</button>
+
+</body>
+</html>
